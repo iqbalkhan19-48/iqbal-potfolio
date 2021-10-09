@@ -7,7 +7,7 @@ const Hero = () => {
       <div className={styles.hero__section}>
         <div className={styles.left__side}>
           <p className={styles.my_name}>Hello,My name is</p>
-          <h2 className={styles.name}>Iqbal khan</h2>
+          <h2 className={styles.name}>Ammar Murshaad</h2>
           <div className={styles.my_title}>
             <div className={styles.my_wrapper}>
               <div className={styles.my_title_items}>Web Developer</div>
